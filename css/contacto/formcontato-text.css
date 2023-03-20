@@ -1,0 +1,16 @@
+@media (min-width: 1000px) {
+    
+    .formcontato__text{
+        display: flex;
+        flex-direction: column;
+        margin-left: 2%;
+        margin-top: -2%;
+       
+    }
+}
+
+
+
+
+
+

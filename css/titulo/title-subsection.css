@@ -1,0 +1,29 @@
+.title__subsection {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color:white;
+    margin-left: 15px;
+    
+}
+
+@media (min-width: 768px) {
+
+    .title__subsection {
+        font-size: 17px;
+        line-height: 23px; 
+        margin-left: 20px;
+        text-align: center; 
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .title__subsection {
+        font-size: 17px;
+        line-height: 23px;
+        margin-left: 20px;
+        text-align: center;
+    }
+}

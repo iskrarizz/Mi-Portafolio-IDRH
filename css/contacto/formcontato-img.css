@@ -1,0 +1,13 @@
+.formcontato__img {
+    display: none;
+}
+
+@media (min-width: 1000px) {
+
+    .formcontato__img {
+        display: block;
+        width: 400px;
+        height: 570px;
+        margin-top: 20px;
+    }
+}

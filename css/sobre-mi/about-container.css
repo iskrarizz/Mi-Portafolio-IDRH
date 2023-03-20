@@ -1,0 +1,13 @@
+@media (min-width: 1000px) {
+
+    .about__container {
+        height: 255px;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .about__container {
+        height: 255px;
+    }
+}

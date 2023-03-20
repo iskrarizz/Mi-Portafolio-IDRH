@@ -1,0 +1,12 @@
+.academic__courses{
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+
+    .academic__courses {
+        display: flex;
+        justify-content: space-around;
+    }
+}

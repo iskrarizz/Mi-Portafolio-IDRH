@@ -1,0 +1,11 @@
+.menu__list__item__contato {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+@media (min-width: 1000px) {
+
+    .menu__list__item__contato {
+        display: none;
+    }
+}

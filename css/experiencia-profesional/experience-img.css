@@ -1,0 +1,20 @@
+.experience__img {
+    margin-bottom: 16px;
+    width: 100%;
+    box-shadow: 10px 10px 20px 20px #f8ede3;
+    
+}
+
+@media (min-width: 768px) {
+
+    .experience__img {
+        width: 100%
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .experience__img {
+        width: 50%
+    }
+}

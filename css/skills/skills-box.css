@@ -1,0 +1,47 @@
+.skills__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #F8EDE3;
+    margin: 22px 0 22px 0;
+    width: 150px;
+    height: 118px;
+    gap: 8px;
+    border-radius: 15px;
+    
+}
+
+.skills__box:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    background-color: rgb(196, 187, 181);
+}
+
+@media (min-width: 768px) {
+
+    .skills__box {
+        margin: 22px 12px 10px 0px;
+        width: 180px;
+        height: 118px;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .skills__box {
+        margin: 22px 15px 22px 0px;
+        width: 102px;
+        height: 118px;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .skills__box {
+        margin: 22px 15px 22px 0px;
+        width: 156px;
+        height: 118px;
+    }
+}

@@ -1,0 +1,21 @@
+.formcontato__form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    margin: 0;
+}
+
+.formcontato__form input {
+    border: transparent;
+    flex-grow: 1;
+    margin: 10px 0px;
+    height: 56px;
+    width: 80vw;
+}
+
+.formcontato__form input::placeholder{
+    color: #464646;
+    font-family: 'Raleway'; 
+}
+

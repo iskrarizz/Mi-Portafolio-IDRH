@@ -1,0 +1,27 @@
+.about {
+    background-color: #0C4271;
+    color: white;
+    padding: 20px;
+
+}
+
+@media (min-width: 768px) {
+
+    .about {
+        padding: 30px 30px;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .about {
+        padding: 30px 30px;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .about {
+        padding: 50px 50px;
+    }
+}

@@ -1,0 +1,14 @@
+.menu__list {
+    display: none;
+ 
+} 
+
+@media (min-width: 1000px) {
+
+    .menu__list {
+        display: flex;
+        justify-content: space-between;
+        font-size: 16px;
+        width: 600px;
+    }
+}

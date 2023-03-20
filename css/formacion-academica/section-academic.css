@@ -1,0 +1,11 @@
+.academic {
+    background-color: #0C4271;
+    color: white;
+}
+
+@media (min-width: 1000px) {
+
+    .academic {
+        margin-top: 35px;
+    }
+}

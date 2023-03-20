@@ -1,0 +1,21 @@
+.tudo {
+    display: flex;
+    flex-direction: column;
+    margin: 0 16px 0 16px;
+    overflow: hidden;
+}
+
+
+@media (min-width: 768px) {
+
+    .tudo {
+        margin: 32px 32px;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .tudo {
+        margin: 10px 50px;
+    }
+}

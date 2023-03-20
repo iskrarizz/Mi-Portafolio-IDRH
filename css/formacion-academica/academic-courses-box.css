@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+
+    .academic__courses__box {
+        width: 18rem;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    .academic__courses__box {
+        width: 380px;
+    }
+}
+
+

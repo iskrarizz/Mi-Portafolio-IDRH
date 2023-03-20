@@ -1,0 +1,37 @@
+.academic__courses__item__img {
+    margin-top: 18px;
+    background-color: white;
+    padding: 20px 0 20px 0;
+    margin: 20px;
+    height: 100px;
+}
+
+.academic__courses__item__img img {
+    width: 30%;
+}
+  
+@media (min-width: 768px) {
+
+    .academic__courses__item__img {
+        height: 120px;
+    }
+
+    .academic__courses__item__img img {
+        width: 50%;
+}
+}
+
+@media (min-width: 1000px) {
+
+    .academic__courses__item__img img {
+        width: 70%;
+}
+    .academic__courses__item__img {
+        padding: 30px 30px;
+        height: 200px;
+
+        
+     
+}
+
+}

@@ -1,0 +1,11 @@
+.formcontato__input:focus {
+    border-bottom: solid 5px #2A7AE4;
+}
+
+
+@media (min-width: 1000px) {
+
+    .formcontato__form input {
+        width: 100%;
+    }
+}
